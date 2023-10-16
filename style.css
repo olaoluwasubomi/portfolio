@@ -117,13 +117,13 @@ nav ul li a{
     width:100%;
 }
 .skills-image{
-    width:48%;
+    width:45%;
 }
 .skills-image img{
     width:100%;
 }
 .skills-content{
-    width:48%;
+    width:45%;
     margin:0 auto;
 }
 .skills-content h3{
@@ -229,7 +229,7 @@ nav ul li a{
 /* GALLERY */
 .gallery{
     background:#1A1A1A;
-    padding:20px 0 0;
+    padding:20px 0 20px;
 }
 .gallery-items{
     display:flex;
